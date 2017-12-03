@@ -7,7 +7,7 @@ public class Test1 {
 		System.out.println("OK");
 
 		System.out.println("xiaowei");
-		System.out.println("haha");
+		System.out.println("hehe");
 		System.out.println("hao");
 
 	}
