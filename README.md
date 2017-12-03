@@ -1,2 +1,2 @@
 # haoProject
-candyhaoProject
+candyhaoProject,my first git project...
